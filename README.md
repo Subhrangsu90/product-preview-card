@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live demo](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/product-preview-card-component-using-css-flexbox-and-css-grid-xFrWjzR4y9)
+- Live Site URL: [Live demo](https://subhrangsu90.github.io/product-preview-card/)
 
 ## My process
 
